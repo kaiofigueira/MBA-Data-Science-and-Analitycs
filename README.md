@@ -1,1 +1,3 @@
-Esse projeto destina-se a resolução de exercícios do MBA de Data Science and Analitycs da USP Esalq que eu estou cursando.
+## 🎓 MBA em Data Science and Analytics - USP/Esalq
+
+Projeto com minhas soluções dos exercícios do MBA em Data Science and Analytics da USP/Esalq, que estou cursando.
