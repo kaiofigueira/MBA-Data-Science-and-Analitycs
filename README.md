@@ -5,7 +5,7 @@
 ## 📚 Conteúdo
 
 - 📊 Estatística
-- 📈 Regressão Linear e Logística
+- 📈 <i>Regressão Linear e Logística</i>
 - 🧮 Machine Learning (Supervisionado e Não Supervisionado)
 - 🔢 Modelagem Preditiva
 - 🧹 Pré-processamento de Dados
