@@ -5,12 +5,12 @@
 ## 📚 Conteúdo
 
 - 📊 Estatística
-- 📈 <i>Regressão Linear e Logística</i>
-- 🧮 Machine Learning (Supervisionado e Não Supervisionado)
-- 🔢 Modelagem Preditiva
-- 🧹 Pré-processamento de Dados
-- 🧠 Deep Learning
-- 🗃️ Banco de Dados e SQL
+- 📈 ~~Regressão Linear e Logística~~
+- 🧮 ~~Machine Learning (Supervisionado e Não Supervisionado)~~
+- 🔢 ~~Modelagem Preditiva~~
+- 🧹 ~~Pré-processamento de Dados~~
+- 🧠 ~~Deep Learning~~
+- 🗃️ ~~Banco de Dados e SQL~~
 - 🧰 Python para Data Science
 - 📦 Bibliotecas: Pandas, Scikit-learn, Matplotlib, etc.
 
